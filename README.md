@@ -1,4 +1,7 @@
 # omniwheels_x4_HappyNewYear
+
+<img src="omniwheels_x4_write.jpg" alt="Fischertechnik Malroboter">
+
 Fischertechnik robot combining writing and painting features to create new years greeting. Based on omniwheels_x4_write.
 
 Note: Application written in Python, user interface in Qt.
